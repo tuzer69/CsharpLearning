@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBk7jzQZQnZSYAh0AT2XZQi62+bOF9H4xtRJpyBUfu+gB+BOVq+ISqQ4OIOVttuR/U/8ckAZTC0RGlB2zwj3mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitriy\\Desktop\\C#\\Home_Work_19\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

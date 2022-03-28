@@ -1,0 +1,7 @@
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\obj\Debug\New_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\bin\Debug\New_Task_1.exe.config
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\bin\Debug\New_Task_1.exe
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\bin\Debug\New_Task_1.pdb
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\obj\Debug\New_Task_1.exe
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\obj\Debug\New_Task_1.pdb
+C:\Users\Dmitriy\Desktop\Home_Work_3.10\New_Task_1\obj\Debug\New_Task_1.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.exe
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.deps.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.runtimeconfig.dev.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\ref\Home_Work_16_2.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\bin\Debug\net5.0\Home_Work_16_2.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\ref\Home_Work_16_2.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_16_2\obj\Debug\net5.0\Home_Work_16_2.genruntimeconfig.cache

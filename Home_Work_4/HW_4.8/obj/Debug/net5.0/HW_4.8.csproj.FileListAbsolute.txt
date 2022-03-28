@@ -1,0 +1,16 @@
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.exe
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.deps.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.runtimeconfig.dev.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\ref\HW_4.8.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\bin\Debug\net5.0\HW_4.8.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\ref\HW_4.8.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\HW_4.8\obj\Debug\net5.0\HW_4.8.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.exe
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.deps.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.runtimeconfig.dev.json
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\ref\Pascale_Triangle.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\bin\Debug\net5.0\Pascale_Triangle.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\ref\Pascale_Triangle.dll
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.pdb
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\C#\Home_Work_4.8\Pascale_Triangle\obj\Debug\net5.0\Pascale_Triangle.csproj.AssemblyReference.cache

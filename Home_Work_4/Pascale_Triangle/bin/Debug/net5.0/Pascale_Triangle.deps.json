@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pascale_Triangle/1.0.0": {
+        "runtime": {
+          "Pascale_Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pascale_Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

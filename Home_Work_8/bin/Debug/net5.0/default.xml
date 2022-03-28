@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<ArrayOfDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Department>
+    <Name>Бухгалтерия</Name>
+    <CretionDate>2019-05-11T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Ефимов</FirstName>
+        <SecondName>Токарев</SecondName>
+        <Age>32</Age>
+        <Department>Бухгалтерия</Department>
+        <Salary>34500</Salary>
+        <Id>885</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Котов</FirstName>
+        <SecondName>Максим</SecondName>
+        <Age>42</Age>
+        <Department>Бухгалтерия</Department>
+        <Salary>37500</Salary>
+        <Id>400</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Егоров</FirstName>
+        <SecondName>Андрей</SecondName>
+        <Age>52</Age>
+        <Department>Бухгалтерия</Department>
+        <Salary>33500</Salary>
+        <Id>283</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Кузнецова</FirstName>
+        <SecondName>Арина</SecondName>
+        <Age>33</Age>
+        <Department>Бухгалтерия</Department>
+        <Salary>40000</Salary>
+        <Id>439</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Журавлев</FirstName>
+        <SecondName>Роберт</SecondName>
+        <Age>32</Age>
+        <Department>Бухгалтерия</Department>
+        <Salary>32400</Salary>
+        <Id>882</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Отдел кадров</Name>
+    <CretionDate>2016-04-11T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Еремеева</FirstName>
+        <SecondName>Полина</SecondName>
+        <Age>42</Age>
+        <Department>Отдел кадров</Department>
+        <Salary>42000</Salary>
+        <Id>521</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Андрианов</FirstName>
+        <SecondName>Макар</SecondName>
+        <Age>51</Age>
+        <Department>Отдел кадров</Department>
+        <Salary>41000</Salary>
+        <Id>519</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Дмитрий</FirstName>
+        <SecondName>Григорьев</SecondName>
+        <Age>43</Age>
+        <Department>Отдел кадров</Department>
+        <Salary>42800</Salary>
+        <Id>721</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Ева</FirstName>
+        <SecondName>Калмыкова</SecondName>
+        <Age>55</Age>
+        <Department>Отдел кадров</Department>
+        <Salary>41600</Salary>
+        <Id>194</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>ИТ</Name>
+    <CretionDate>2015-02-12T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Ковалева</FirstName>
+        <SecondName>Александра</SecondName>
+        <Age>33</Age>
+        <Department>ИТ</Department>
+        <Salary>37000</Salary>
+        <Id>341</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Миронов</FirstName>
+        <SecondName>Максим</SecondName>
+        <Age>35</Age>
+        <Department>ИТ</Department>
+        <Salary>36000</Salary>
+        <Id>612</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Кошелев </FirstName>
+        <SecondName>Адам</SecondName>
+        <Age>37</Age>
+        <Department>ИТ</Department>
+        <Salary>37000</Salary>
+        <Id>261</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>ИТР</Name>
+    <CretionDate>2017-09-18T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Новиков</FirstName>
+        <SecondName>Дмитрий</SecondName>
+        <Age>31</Age>
+        <Department>ИТР</Department>
+        <Salary>34000</Salary>
+        <Id>366</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Дмитрий</FirstName>
+        <SecondName>Александра</SecondName>
+        <Age>34</Age>
+        <Department>ИТР</Department>
+        <Salary>33000</Salary>
+        <Id>93</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Демина </FirstName>
+        <SecondName>Мадина</SecondName>
+        <Age>37</Age>
+        <Department>ИТР</Department>
+        <Salary>32000</Salary>
+        <Id>254</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Финансовый отдел</Name>
+    <CretionDate>2019-12-21T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Горбунова</FirstName>
+        <SecondName>Александра</SecondName>
+        <Age>42</Age>
+        <Department>Финансовый отдел</Department>
+        <Salary>42000</Salary>
+        <Id>626</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Авдеев</FirstName>
+        <SecondName>Владимир</SecondName>
+        <Age>52</Age>
+        <Department>Финансовый отдел</Department>
+        <Salary>43000</Salary>
+        <Id>600</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Воронин</FirstName>
+        <SecondName>Антон</SecondName>
+        <Age>33</Age>
+        <Department>Финансовый отдел</Department>
+        <Salary>39000</Salary>
+        <Id>110</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Лапшин</FirstName>
+        <SecondName>Назар</SecondName>
+        <Age>32</Age>
+        <Department>Финансовый отдел</Department>
+        <Salary>37000</Salary>
+        <Id>180</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Отдел маркетинга</Name>
+    <CretionDate>2017-05-01T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Вавилов</FirstName>
+        <SecondName>Демид</SecondName>
+        <Age>38</Age>
+        <Department>Отдел маркетинга</Department>
+        <Salary>45000</Salary>
+        <Id>741</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Соболева</FirstName>
+        <SecondName>Ксения</SecondName>
+        <Age>39</Age>
+        <Department>Отдел маркетинга</Department>
+        <Salary>31000</Salary>
+        <Id>832</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Григорий</FirstName>
+        <SecondName>Кузнецов</SecondName>
+        <Age>34</Age>
+        <Department>Отдел маркетинга</Department>
+        <Salary>43000</Salary>
+        <Id>982</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Роман</FirstName>
+        <SecondName>Лыков</SecondName>
+        <Age>39</Age>
+        <Department>Отдел маркетинга</Department>
+        <Salary>50000</Salary>
+        <Id>629</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Технологи</Name>
+    <CretionDate>2018-04-08T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Никитина</FirstName>
+        <SecondName>Варвара</SecondName>
+        <Age>32</Age>
+        <Department>Технологи</Department>
+        <Salary>32000</Salary>
+        <Id>268</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Матвеев</FirstName>
+        <SecondName>Александр</SecondName>
+        <Age>34</Age>
+        <Department>Технологи</Department>
+        <Salary>31500</Salary>
+        <Id>138</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Львова </FirstName>
+        <SecondName>Полина</SecondName>
+        <Age>38</Age>
+        <Department>Технологи</Department>
+        <Salary>33500</Salary>
+        <Id>745</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Автотранспортный отдел</Name>
+    <CretionDate>2019-04-25T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Ларин</FirstName>
+        <SecondName>Альберт</SecondName>
+        <Age>37</Age>
+        <Department>Автотранспортный отдел</Department>
+        <Salary>42000</Salary>
+        <Id>128</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Логинов </FirstName>
+        <SecondName>Савелий</SecondName>
+        <Age>38</Age>
+        <Department>Автотранспортный отдел</Department>
+        <Salary>44000</Salary>
+        <Id>379</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Милана</FirstName>
+        <SecondName>Серова</SecondName>
+        <Age>35</Age>
+        <Department>Автотранспортный отдел</Department>
+        <Salary>42500</Salary>
+        <Id>45</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Михаил </FirstName>
+        <SecondName>Соболев</SecondName>
+        <Age>39</Age>
+        <Department>Автотранспортный отдел</Department>
+        <Salary>44500</Salary>
+        <Id>279</Id>
+      </Worker>
+    </Workers>
+  </Department>
+  <Department>
+    <Name>Отдел учета</Name>
+    <CretionDate>2014-04-27T00:00:00</CretionDate>
+    <Workers>
+      <Worker>
+        <FirstName>Галкин</FirstName>
+        <SecondName>Ярослав</SecondName>
+        <Age>53</Age>
+        <Department>Отдел учета</Department>
+        <Salary>41000</Salary>
+        <Id>614</Id>
+      </Worker>
+      <Worker>
+        <FirstName>Фролова </FirstName>
+        <SecondName>Фролова</SecondName>
+        <Age>55</Age>
+        <Department>Отдел учета</Department>
+        <Salary>42500</Salary>
+        <Id>28</Id>
+      </Worker>
+    </Workers>
+  </Department>
+</ArrayOfDepartment>

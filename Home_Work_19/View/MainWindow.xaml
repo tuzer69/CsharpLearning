@@ -1,0 +1,148 @@
+﻿<Window x:Class="Home_Work_19.MainWindow"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular" Title="Animals"
+        TextElement.FontSize="13" mc:Ignorable="d"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignDarkBackground}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:presenter="clr-namespace:Presenter"
+        xmlns:local="clr-namespace:Home_Work_19"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
+        d:DesignHeight="350" d:DesignWidth="300"
+        DataContext="{Binding Presenter, Source={StaticResource Locator}}"
+        MinHeight="350" MinWidth="600" MaxHeight="500" MaxWidth="700" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style x:Key="BtnStyle" 
+               TargetType="ButtonBase"
+               BasedOn="{StaticResource MaterialDesignPaperButton}">
+                <Setter Property="FontSize" Value="20"></Setter>
+            </Style>
+    </Window.Resources>
+
+    <Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Top">
+
+                <materialDesign:PopupBox
+                    Style="{StaticResource MaterialDesignMultiFloatingActionDarkPopupBox}"
+                    PopupMode="Click"
+                    PlacementMode="BottomAndAlignRightEdges"
+                    Background="Crimson"
+                    Margin="0, 0, 5, 0"
+                    Width="35"
+                    Height="35"
+                    ToolTip="Добавить животное">
+                    <materialDesign:PopupBox.ToggleCheckedContent>
+                        <materialDesign:PackIcon Kind="AddAlert" Width="24" Height="24"/>
+                    </materialDesign:PopupBox.ToggleCheckedContent>
+
+                    <StackPanel>
+                        <Button x:Name="M" Style="{StaticResource BtnStyle}" 
+                                Content="Млекопитающие"
+                                Command="{Binding AddAmimalCommand}"
+                                CommandParameter="mammals"/>
+                        <Button x:Name="B" Style="{StaticResource BtnStyle}"
+                                Content="Птицы" 
+                                Command="{Binding AddAmimalCommand}"
+                                CommandParameter="birds"/>
+                        <Button x:Name="A" Style="{StaticResource BtnStyle}"
+                                Content="Земноводные" 
+                                Command="{Binding AddAmimalCommand}"
+                                CommandParameter="amphibious"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+                <materialDesign:PopupBox
+                    Style="{StaticResource MaterialDesignMultiFloatingActionPopupBox}"
+                    PopupMode="Click"
+                    PlacementMode="BottomAndAlignRightEdges"
+                    Background="ForestGreen"
+                    Margin="0, 0, 5, 0"
+                    Width="35"
+                    Height="35"
+                    ToolTip="Настройки">
+                                        
+                    
+                    
+                    <materialDesign:PopupBox.ToggleCheckedContent>
+                        <materialDesign:PackIcon Kind="Pencil" Width="24" Height="24"/>
+                    </materialDesign:PopupBox.ToggleCheckedContent>
+                    
+                    <StackPanel>
+                        <Button Style="{StaticResource BtnStyle}" 
+                                Content="Загрузить"
+                                Command="{Binding LoadDbCommand}"
+                                CommandParameter="mammals"/>
+                        <Button Style="{StaticResource BtnStyle}"
+                                Content="Сохранить" 
+                                Command="{Binding SaveDbCommand}"
+                                CommandParameter="birds"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+
+            </StackPanel>
+
+            <materialDesign:DialogHost Identifier="root">
+                <materialDesign:DrawerHost>
+
+                    <ListBox
+                            x:Name="LbxAnimals"
+                            ItemsSource="{Binding Repository, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                            Style="{DynamicResource MaterialDesignListBox}"
+                            MinHeight="150"
+                            MinWidth="250"
+                            FontSize="20"
+                            Background="AntiqueWhite"
+                            VerticalAlignment="Top"
+                            HorizontalAlignment="Center">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid MinWidth="250" 
+                          HorizontalAlignment="Stretch" 
+                          MouseEnter="Grid_MouseEnter">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="35"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock 
+                            Text="{Binding Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                            Grid.Column="0">
+                            </TextBlock>
+
+                            <materialDesign:PopupBox Grid.Column="1">
+                                <StackPanel Orientation="Vertical" 
+                                            DataContext="{Binding Presenter, Source={StaticResource Locator}}">
+                                    <Button Content="Удалить" 
+                                            Command="{Binding RemoveAmimalCommand }" />
+
+                                    <Button Content="Изменить"
+                                            Command="{Binding OpenDialogCommand}" />
+
+                                </StackPanel>
+                            </materialDesign:PopupBox>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+
+            </ListBox>
+
+                </materialDesign:DrawerHost>
+            </materialDesign:DialogHost>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

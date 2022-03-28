@@ -1,0 +1,40 @@
+﻿<Window x:Class="Task_1.UserSelect"
+        x:Name="ModalWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_1"
+        mc:Ignorable="d"
+        Background="Chocolate"
+        Title="Выберите пользователя:" 
+        Width="310" Height="69" ResizeMode="NoResize" WindowStyle="None"
+        WindowStartupLocation="CenterScreen" x:FieldModifier="public">
+    <Window.DataContext>
+        <local:MainWindowViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="167*"/>
+
+
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="CbUsers"
+                  x:FieldModifier="public"
+                  HorizontalAlignment="Left" VerticalAlignment="Top" 
+                  Width="210" Height="40"
+                  FontSize="24" Margin="6,14,0,0"
+                  ItemsSource="{Binding Users}"
+                  SelectedItem="{Binding Author}"
+                  SelectedValue="Консультант"
+                  >
+        </ComboBox>
+        <Button Content="ОК" HorizontalAlignment="Left"  VerticalAlignment="Top" 
+                Command="{Binding UserSelectCommand}"
+                FontSize="28"
+                Height="40"
+                Width="64" Margin="231,14,0,0" RenderTransformOrigin="0.408,0.628" />
+
+    </Grid>
+</Window>

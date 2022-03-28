@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnM4uD3PCOHOozDGQ+iJt7mgJEaxRjW2KAaul5CJ8TbZCC1O+uM3h7k8vJ7aP8kRoEK1lUlFwK56oMVOmjkJTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitriy\\Desktop\\C#\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\csharpfunctionalextensions\\2.27.1\\csharpfunctionalextensions.2.27.1.nupkg.sha512"
+  ],
+  "logs": []
+}

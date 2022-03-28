@@ -1,0 +1,71 @@
+{
+  "$type": "System.Collections.ObjectModel.ObservableCollection`1[[Models.Interfaces.IAnimal, Models]], System.ObjectModel",
+  "$values": [
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 1,
+      "Name": "Birds1",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 2,
+      "Name": "Birds2",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 3,
+      "Name": "Birds3",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 4,
+      "Name": "Birds4",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 5,
+      "Name": "Birds5",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Mammals, Models",
+      "Id": 21,
+      "Name": "Mammals21",
+      "Type": 0
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 23,
+      "Name": "Birds23",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Mammals, Models",
+      "Id": 22,
+      "Name": "Млекопитающее",
+      "Type": 0
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 17,
+      "Name": "Birds17",
+      "Type": 1
+    },
+    {
+      "$type": "Models.Animals.Amphibious, Models",
+      "Id": 18,
+      "Name": "Amphibious18",
+      "Type": 2
+    },
+    {
+      "$type": "Models.Animals.Birds, Models",
+      "Id": 19,
+      "Name": "Birds19",
+      "Type": 1
+    }
+  ]
+}
